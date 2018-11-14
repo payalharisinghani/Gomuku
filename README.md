@@ -1,0 +1,2 @@
+# Gomuku
+Python game
